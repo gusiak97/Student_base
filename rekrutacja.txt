@@ -1,0 +1,61 @@
+Maciej
+Dobrzela
+matura OKE
+8
+matematyka P: 98
+matematyka R: 50
+fizyka: 46
+informatyka: 34
+angielski P: 100
+angielski R: 78
+polski P: 68
+studium talent: 5
+
+Emilia
+Pator
+stara matura
+7
+matematyka P: 6
+matematyka R: 4
+fizyka P: 4
+fizyka R: 3
+angielski PISEMNY: 5
+angielski USTNY: 4
+polski: 5
+
+Pawel
+Lizur
+matura OKE
+7
+matematyka P: 58
+matematyka R: 26
+fizyka: 40
+informatyka: 50
+niemiecki P: 86
+angielski R: 36
+polski P: 50
+
+Rozalia
+Irkoska
+matura miedzynarodowa IB
+8
+matematyka SL: 7
+matematyka HL: 4
+fizyka SL: 5
+informatyka HL: 4
+angielski SL: 5
+niemiecki HL: 4
+polski SL: 5
+polski HL: 3
+
+Krystian
+Drawski
+matura OKE
+7
+matematyka P: 100
+matematyka R: 46
+fizyka: 56
+angielski P: 100
+angielski R: 78
+polski P: 68
+studium talent: 5

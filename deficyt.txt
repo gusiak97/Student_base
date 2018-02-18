@@ -1,0 +1,9 @@
+podstawy telekomunikacji: 2
+miernictwo: 2
+algebra: 1
+rachunek prawdopodobienstwa: 2
+teoria systemow: 3
+programowanie obiektowe: 6
+fizyka: 5
+matematyka dyskretna: 4
+analiza matematyczna: 5

@@ -1,0 +1,59 @@
+Ala
+Nowak
+235697
+9
+podstawy telekomunikacji: 4.5
+miernictwo: 3
+algebra: 4
+rachunek prawdopodobienstwa: 3.5
+teoria systemow: 2
+programowanie obiektowe: 5
+fizyka: 4.5
+matematyka dyskretna: 4
+analiza matematyczna: 3.5
+4
+
+Pawel
+Kowalski
+373978
+9
+podstawy telekomunikacji: 4.5
+miernictwo: 4
+algebra: 5
+rachunek prawdopodobienstwa: 3.5
+teoria systemow: 4
+programowanie obiektowe: 5
+fizyka: 4.5
+matematyka dyskretna: 5.5
+analiza matematyczna: 5
+1
+
+Michal
+Klosz
+152834
+9
+podstawy telekomunikacji: 2
+miernictwo: 2.5
+algebra: 0
+rachunek prawdopodobienstwa: 3
+teoria systemow: 0
+programowanie obiektowe: 2.5
+fizyka: 3.5
+matematyka dyskretna: 3
+analiza matematyczna: 0
+0
+
+Ewelina 
+Trojnicka
+235643
+9
+podstawy telekomunikacji: 4.5
+miernictwo: 2
+algebra: 3.5
+rachunek prawdopodobienstwa: 5
+teoria systemow: 3
+programowanie obiektowe: 4
+fizyka: 2.5
+matematyka dyskretna: 3
+analiza matematyczna: 4
+10
